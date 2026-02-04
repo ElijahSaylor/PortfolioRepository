@@ -1,0 +1,20 @@
+7,18
+[X],[ ]
+xxxxxxx
+xoooxxx
+xxxxxxx
+xxxxxxx
+xxxxxxx
+xxxxxxx
+xxxxxxx
+xxxxxoo
+xxxxxoo
+xxxxxxx
+xxxxxxx
+xxxxxxx
+xxxxxxx
+xxxxxxx
+xxxxoxx
+xxxoxox
+xxxoxox
+xxxxoxx

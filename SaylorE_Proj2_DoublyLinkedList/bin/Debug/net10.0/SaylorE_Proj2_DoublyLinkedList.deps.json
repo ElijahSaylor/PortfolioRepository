@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SaylorE_Proj2_DoublyLinkedList/1.0.0": {
+        "runtime": {
+          "SaylorE_Proj2_DoublyLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaylorE_Proj2_DoublyLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

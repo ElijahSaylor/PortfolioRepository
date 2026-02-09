@@ -1,0 +1,15 @@
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\bin\Debug\net10.0\PE_Dictionaries.exe
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\bin\Debug\net10.0\PE_Dictionaries.deps.json
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\bin\Debug\net10.0\PE_Dictionaries.runtimeconfig.json
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\bin\Debug\net10.0\PE_Dictionaries.dll
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\bin\Debug\net10.0\PE_Dictionaries.pdb
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.AssemblyInfo.cs
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.sourcelink.json
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.dll
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\refint\PE_Dictionaries.dll
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.pdb
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\PE_Dictionaries.genruntimeconfig.cache
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\PEs\PE_Dictionaries\obj\Debug\net10.0\ref\PE_Dictionaries.dll

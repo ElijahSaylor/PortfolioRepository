@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\PEs\\PE_Dictionaries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B753D24-8FFC-4889-85ED-A6635D6EBFF9}|PE_Dictionaries.csproj|c:\\users\\elijah saylor\\documents\\github\\106-personal-repo-elijahsaylor\\pes\\pe_dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B753D24-8FFC-4889-85ED-A6635D6EBFF9}|PE_Dictionaries.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B753D24-8FFC-4889-85ED-A6635D6EBFF9}|PE_Dictionaries.csproj|c:\\users\\elijah saylor\\documents\\github\\106-personal-repo-elijahsaylor\\pes\\pe_dictionaries\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B753D24-8FFC-4889-85ED-A6635D6EBFF9}|PE_Dictionaries.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\PEs\\PE_Dictionaries\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\PEs\\PE_Dictionaries\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T20:20:34.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\PEs\\PE_Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\PEs\\PE_Dictionaries\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T20:20:02.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

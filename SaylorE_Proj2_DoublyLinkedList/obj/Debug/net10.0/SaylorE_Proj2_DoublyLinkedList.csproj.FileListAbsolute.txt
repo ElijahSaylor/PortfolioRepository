@@ -1,0 +1,15 @@
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.AssemblyInfo.cs
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.sourcelink.json
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\bin\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.exe
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\bin\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.deps.json
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\bin\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.runtimeconfig.json
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\bin\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.dll
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\bin\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.pdb
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.dll
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\refint\SaylorE_Proj2_DoublyLinkedList.dll
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.pdb
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\SaylorE_Proj2_DoublyLinkedList.genruntimeconfig.cache
+C:\Users\Elijah Saylor\Documents\GitHub\106-personal-repo-ElijahSaylor\Projects\SaylorE_Proj2_DoublyLinkedList\obj\Debug\net10.0\ref\SaylorE_Proj2_DoublyLinkedList.dll

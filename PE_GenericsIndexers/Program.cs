@@ -17,8 +17,7 @@
             // ----- GetData/SetData Exceptions Test on Empty List -----
             // ---------------------------------------------------------
 
-            // TODO: AFTER the list is generic, change all calls to GetData to the indexer.
-            // TODO: AFTER the list is generic, change all calls to SetData to the indexer.
+            
 
             // Test GetData exception is properly working for an empty list.
             Console.WriteLine("--> List is empty. Exceptions should occur here... <--");
@@ -57,7 +56,7 @@
             // ----- GetData Testing -----
             // ---------------------------
 
-            // TODO: AFTER the list is generic, change all calls to GetData to the indexer.
+          
 
             // Print all data in the list by retrieving the value at each index
             Console.WriteLine("\n--> Values in my list BEFORE modification<--");
@@ -71,11 +70,7 @@
             // ----- SetData Testing -----
             // ---------------------------
 
-            // TODO: AFTER the list is generic, change all calls to SetData to the indexer. 
-            // TODO: AFTER the list is generic, change all calls to GetData to the indexer.
-
-            // Test the SetData method on the first and last items in the list
-            //   and reprint the list's contents for confirmation.
+          
             myList.SetData(0, 0);
             myList.SetData(myList.Count - 1, myList.Count - 1);
 
@@ -90,7 +85,7 @@
             // ----- GetData Exceptions with Data in the List -----
             // ----------------------------------------------------
 
-            // TODO: AFTER the list is generic, change all calls to GetData to the indexer.
+           
 
             // Test that GetData's exceptions are properly working for
             //    a list that contains data. Test -1 and a too-large index.
@@ -119,7 +114,7 @@
             // ----- GetData Exceptions with Data in the List -----
             // ----------------------------------------------------
 
-            // TODO: AFTER the list is generic, change all calls to SetData to the indexer.
+           
 
             // Test that the SetData's exceptions are properly working for
             //    a list that contains data. Test -1 and a too-large index.
@@ -142,19 +137,7 @@
             }
 
 
-            // **************************************************
-            // * Answer the following questions:                *
-            // *   Using try/catch blocks allows a programmer   *
-            // *   to test a class's exception handling.        *
-            // *   However, it's optimal to PREVENT any crashes *
-            // *   with conditionals in your code when you can. *
-            // * - How could GetData or SetData crashes be      *
-            // *   prevented with conditionals?                 *
-            // * - Explain or write the code.                   *
-            // **************************************************
-            // ANSWER(s): 
-            //
-            //
+            
 
 
             // ------------------------------------

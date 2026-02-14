@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\PE_GenericsIndexers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892DCC83-0943-F3F5-DE20-FAFE9095EE34}|PE_GenericsIndexers.csproj|c:\\users\\elijah saylor\\documents\\github\\testnew 106 repo\\portfoliorepository\\pe_genericsindexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892DCC83-0943-F3F5-DE20-FAFE9095EE34}|PE_GenericsIndexers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892DCC83-0943-F3F5-DE20-FAFE9095EE34}|PE_GenericsIndexers.csproj|c:\\users\\elijah saylor\\documents\\github\\testnew 106 repo\\portfoliorepository\\pe_genericsindexers\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892DCC83-0943-F3F5-DE20-FAFE9095EE34}|PE_GenericsIndexers.csproj|solutionrelative:customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\PE_GenericsIndexers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\PE_GenericsIndexers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwIsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:21:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\PE_GenericsIndexers\\CustomList.cs",
+              "RelativeDocumentMoniker": "CustomList.cs",
+              "ToolTip": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\PE_GenericsIndexers\\CustomList.cs",
+              "RelativeToolTip": "CustomList.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAwwJ8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:19:54.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

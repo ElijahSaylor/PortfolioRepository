@@ -39,7 +39,7 @@ namespace SaylorE_Proj2_DoublyLinkedList
         {
             if (index < 0 || index >= count)
             {
-                throw new IndexOutOfRangeException("Index out of range broseph!");
+                throw new IndexOutOfRangeException("Index out of range!");
             }
 
             CustomNode<T> currentNode = head;

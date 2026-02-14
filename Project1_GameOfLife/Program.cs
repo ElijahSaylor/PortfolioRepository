@@ -86,7 +86,7 @@ namespace Project1_GameOfLife
                         Console.WriteLine("File Saved!");
                         break;
                     case "3":
-                        goto Menu; //imsorrypleasedontbemadimsorrypleasedontbemadimsorrypleasedontbemadimsorrypleasedontbemadimsorrypleasedontbemadimsorrypleasedontbemadimsorrypleasedontbemadimsorrypleasedontbemad
+                        goto Menu; //Ignore (:
                     case "4":
                         Console.WriteLine("Bye Bye!");
                         break;

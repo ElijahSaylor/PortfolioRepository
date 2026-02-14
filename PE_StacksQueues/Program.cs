@@ -15,7 +15,7 @@
             }
             Console.WriteLine(johnStack.Count);
 
-            johnQueue.Enqueue(["Joe Brandon","Moscow Mitch","Obamna","Elon 'I wonder why my kids hate me' Musk"]);
+            johnQueue.Enqueue(["Joe","Mitch","Obert","Jarvis"]);
 
             while(johnQueue.Count != 0)
             {

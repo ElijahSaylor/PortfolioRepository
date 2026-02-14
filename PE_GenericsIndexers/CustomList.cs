@@ -16,16 +16,6 @@ namespace PE_GenericsIndexers
         private T[] data;      // Underlying array that holds all list data
         private int count;          // Size of the list
 
-        // **************************************************
-        // * Answer the following question:                 *
-        // * - Why DON'T we need an extra field to hold     *
-        // *   the list's capacity?                         *
-        // **************************************************
-        // ANSWER(s): 
-        // Because there is already a built in .Capacity property in the list class
-        //
-
-
         // --------------------------------------------------------------------
         // Properties of the class
         // --------------------------------------------------------------------
@@ -38,19 +28,6 @@ namespace PE_GenericsIndexers
             get { return count; }
         }
 
-        // **************************************************
-        // * Answer the following questions:                *
-        // * - Why is the Count property get-only?          *
-        // * - Why not include a set?                       *
-        // **************************************************
-        // ANSWER(s): 
-        // 
-        // setting the 'count' of a list doesn't really make sense. you would need to A) resize the list,
-        // which is its own operation, and B) populate those new slots with some value. also if you could
-        // arbitrarily set it, then it could become disassociated with the actual number of elements in the
-        // list and would probably not be very useful.
-        //
-
 
         /// <summary>
         /// Returns the overall number of elements the internal data structure
@@ -62,30 +39,13 @@ namespace PE_GenericsIndexers
         }
 
 
-        /*
-        // NOOOOO! Don't do this! This is included to show what NOT to do.
-        public double[] Data
-        {
-            get { return data; }
-            set { data = value; }
-        }
-        */
-        // **************************************************
-        // * Answer the following question:                 *
-        // * - Why DON'T we want a property that gets or    *
-        // *   sets the data array?                         *
-        // **************************************************
-        // ANSWER(s): 
-        //
-        // Because now access to this array (which should be a field) is not being protected or controlled,
-        // potentially breaking internal stuff which might rely on it.
+ 
 
 
         // --------------------------------------------------------------------
         // Indexer Property
         // --------------------------------------------------------------------
 
-        // TODO: Write an indexer property with get and set
 
         public T this[int numba]
         {
@@ -133,57 +93,26 @@ namespace PE_GenericsIndexers
         /// <param name="item">Item to add to the next available spot.</param>
         public void Add(T item)
         {
-            // **************************************************
-            // * Comment this conditional.                      *
-            // * WHAT does it do and, more importantly,         *
-            // * WHY is it happening?                           *
-            // **************************************************
-
-            // if the list is almost full of stuff, more space needs to be made in order to add
-            // more stuff, so the backing array needs to be resized so it can fit more stuff
-            //
-            // I am truly a word wizard
+          
             if (count == data.Length - 1)
             {
                 IncreaseSizeAndCopyData();
             }
 
-            // **************************************************
-            // * Comment this code.                             *
-            // * WHAT does it do and, more importantly,         *
-            // * WHY is it happening?                           *
-            // **************************************************
-            
-            // it is sticking the new piece of data onto the end of the array and ticking the
-            // count + 1 so that the count matches the # of data bits in the array.
+          
             data[count] = item;
             count++;
         }
 
 
-        // **************************************************
-        // * Answer the following questions:                *
-        // * - What is the purpose of a private method?     *
-        // * - Why is the IncreaseSizeAndCopyData method    *
-        // *   private?                                     *
-        // **************************************************
-        // ANSWER(s): 
-        //
-        // It is so that the class can function correctly internally. You probably
-        // shouldnt resize your list unless you have to since it is slow and 
-        // computationally expensive. Making the method private means it only
-        // runs when it must.
+        
 
         /// <summary>
         /// Doubles the size of the data array.
         /// </summary>
         private void IncreaseSizeAndCopyData()
         {
-            // **************************************************
-            // * Comment this conditional.                      *
-            // * WHAT does it do and, more importantly,         *
-            // * WHY is it happening?                           *
-            // **************************************************
+            
 
             // if the list isnt full, dont resize it bozo!
             if (count != data.Length - 1)
@@ -191,11 +120,7 @@ namespace PE_GenericsIndexers
                 return;
             }
 
-            // **************************************************
-            // * Comment every line of this code.               *
-            // * WHAT does it do and, more importantly,         *
-            // * WHY is it happening?                           *
-            // **************************************************
+           
 
             // creates a new array of 2x size
             T[] largerCopy = new T[data.Length * 2];
@@ -211,19 +136,7 @@ namespace PE_GenericsIndexers
         }
 
 
-        // **************************************************
-        // * Answer the following questions:                *
-        // * - Where is GetData's thrown exception being    *
-        // *   caught?                                      *
-        // * - Why is the thrown exception NOT caught       *
-        // *   directly in the GetData method?              *
-        // **************************************************
-        // ANSWER(s): 
-        //
-        // the thrown error is caught in main so that the programmer working
-        // with the custom data structure can decide how to proceed, which is 
-        // usually going to be context dependent.
-        //
+        
 
         /// <summary>
         /// Retrieve data at an index.
@@ -236,11 +149,7 @@ namespace PE_GenericsIndexers
 
             return data[index];
 
-            // **************************************************
-            // * Comment this conditional.                      *
-            // * WHAT does it do and, more importantly,         *
-            // * WHY is it happening?                           *
-            // **************************************************
+           
 
             // if index is valid, return the data at that point
             if (index >= 0 && index < count)
@@ -248,12 +157,7 @@ namespace PE_GenericsIndexers
                 return data[index];
             }
 
-            // **************************************************
-            // * Comment every statement in this code.          *
-            // * WHAT does it do and, more importantly,         *
-            // * WHY is it happening?                           *
-            // **************************************************
-
+           
             // let there be some exception message pointer!
             string exceptionMessage;
 

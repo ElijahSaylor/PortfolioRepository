@@ -7,16 +7,9 @@
             // Introduction to the assignment
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("*** Doubly Linked List Tests ***");
-            Console.WriteLine("This Main method will test all operations of your doubly linked list.");
+            Console.WriteLine("This Main method will test all operations of the doubly linked list.");
             Console.WriteLine("That includes testing every thrown exception for invalid operations.");
             Console.WriteLine();
-            Console.WriteLine("All console output should match the Console Compare extension.");
-            Console.WriteLine("(See myCourses for Console Compare instructions.)");
-            Console.WriteLine();
-            Console.WriteLine("All of Main (text your instructor wrote) should already match Console Compare.");
-            Console.WriteLine("What do YOU need to match?");
-            Console.WriteLine("  - Check your exception messages");
-            Console.WriteLine("  - Check your output from the two print methods");
             Console.ForegroundColor = ConsoleColor.Gray;
 
             // Press a key to test the next section

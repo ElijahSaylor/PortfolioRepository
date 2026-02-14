@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaylorE_Proj2_DoublyLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba601ac087d43f64dc72644a4ff8204a76b684a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6048d7b51a7f3f0523ef580947f2c4233a3deacf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaylorE_Proj2_DoublyLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaylorE_Proj2_DoublyLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,7 +23,7 @@ namespace PE_StacksQueues
         {
             if (dataList.Count == 0)
             {
-                throw new NullReferenceException("Can't peek() at an empty stack ding dong...");
+                throw new NullReferenceException("Can't peek() at an empty stack");
             }
 
             return dataList[Count - 1];
@@ -47,7 +47,7 @@ namespace PE_StacksQueues
         {
             if(dataList.Count == 0)
             {
-                throw new NullReferenceException("Can't pop() from an empty stack ding dong...");
+                throw new NullReferenceException("Can't pop() from an empty stack");
             }
 
             T holder = dataList[dataList.Count - 1];

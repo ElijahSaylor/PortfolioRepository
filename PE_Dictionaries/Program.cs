@@ -12,13 +12,13 @@ namespace PE_Dictionaries
             Dictionary<string,Player> epicDictionary = new Dictionary<string,Player>();
 
             Player JoeBiden = new Player("Joe Biden", 7);
-            Player MoscowMitch = new Player("Mitch McConnel", -1000000);
+            Player JohnCena = new Player("Mitch McConnel", -1000000);
 
             epicDictionary.Add(JoeBiden.Name,JoeBiden);
-            epicDictionary.Add(MoscowMitch.Name, MoscowMitch);
+            epicDictionary.Add(JohnCena.Name, JohnCena);
 
             Console.WriteLine(epicDictionary[JoeBiden.Name].Name);
-            Console.WriteLine(epicDictionary[MoscowMitch.Name].Name);
+            Console.WriteLine(epicDictionary[JohnCena.Name].Name);
 
             //while (true)
             //{

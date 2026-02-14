@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\Projects\\SaylorE_Proj2_DoublyLinkedList\\SaylorE_Proj2_DoublyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\SaylorE_Proj2_DoublyLinkedList\\SaylorE_Proj2_DoublyLinkedList.csproj",
       "projectName": "SaylorE_Proj2_DoublyLinkedList",
-      "projectPath": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\Projects\\SaylorE_Proj2_DoublyLinkedList\\SaylorE_Proj2_DoublyLinkedList.csproj",
+      "projectPath": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\SaylorE_Proj2_DoublyLinkedList\\SaylorE_Proj2_DoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\Elijah Saylor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\106-personal-repo-ElijahSaylor\\Projects\\SaylorE_Proj2_DoublyLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\Elijah Saylor\\Documents\\GitHub\\TestNew 106 repo\\PortfolioRepository\\SaylorE_Proj2_DoublyLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elijah Saylor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

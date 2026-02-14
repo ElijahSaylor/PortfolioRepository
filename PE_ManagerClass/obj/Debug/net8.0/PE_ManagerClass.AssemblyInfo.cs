@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE_ManagerClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+837d8be4ccfaaea0e881e4c501a909174d6bcf47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6048d7b51a7f3f0523ef580947f2c4233a3deacf")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE_ManagerClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE_ManagerClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
